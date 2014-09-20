@@ -1,0 +1,13 @@
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\bin\Debug\Wpf.Jfrog.Demo.exe.config
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\bin\Debug\Wpf.Jfrog.Demo.exe
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\bin\Debug\Wpf.Jfrog.Demo.pdb
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.csprojResolveAssemblyReference.cache
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\MainWindow.baml
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\MainWindow.g.cs
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\App.g.cs
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo_MarkupCompile.cache
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.g.resources
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.Properties.Resources.resources
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.csproj.GenerateResource.Cache
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.exe
+c:\users\assaf\documents\visual studio 2013\Projects\Wpf.Jfrog.Demo\Wpf.Jfrog.Demo\obj\Debug\Wpf.Jfrog.Demo.pdb
